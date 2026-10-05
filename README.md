@@ -37,34 +37,33 @@ E claro, sempre com a regra principal: **melhorar a apresentação sem inventar 
 ---
 
 ## 📝 Mega Prompt Utilizado
-Gente, esse foi o mega prompt que escrevi para guiar a IA. Ele é grande porque precisava detalhar tudo: telas, fluxo, cores, regras éticas e funcionalidades.  
+*(Aqui você cola o seu mega prompt completo, como já discutimos — não apenas o resumo, mas todo o texto que você usou para guiar a IA.)*
 
-```markdown
-# Currículo ATS Friendly com Lovable
+---
 
-Aplicação web que compara currículo e vaga e gera uma versão ATS friendly.  
+## 🚧 Gargalos e Aprendizados
+Durante o desenvolvimento, encontrei algumas dificuldades que vale destacar:  
+- Como estou estudando, usei a versão **gratuita do Lovable**, o que limitou os créditos e fez com que o desenvolvimento levasse **três dias** para ser concluído. Esse foi um dos gargalos principais.  
+- Outro gargalo foi a área de **Vibe Coding**, que ainda precisa de ajustes para ficar mais fluida e completa. Mesmo assim, decidi publicar a aplicação dentro do prazo do curso para mostrar o resultado final.  
+- A exportação em Word foi um ponto que precisei ajustar, mas acabou sendo um diferencial importante para permitir edição livre do currículo.  
+- Para evidenciar o funcionamento, subi **11 prints do app** neste link: [Canva com prints](https://canva.link/56xy2r2g8r15akx).  
+- Aprendi que clareza nos prompts e foco no essencial ajudam a economizar tempo e créditos, além de garantir que a aplicação seja funcional mesmo em versão gratuita.  
 
-Design system: shadcn/ui  
-Paleta de cores: azul (#0044cc), verde (#00aa66), cinza claro (#f5f5f5)  
+---
 
-### Telas
-- **Tela inicial (painel)**: upload de currículo e vaga, lista de análises salvas.  
-- **Tela de análise**: pontuação de compatibilidade (0 a 100), palavras-chave presentes e ausentes, soft skills, gaps, dicas de formatação.  
-- **Tela de conversa (Vibe Coding)**: chat educativo com IA, histórico salvo por análise.  
-- **Tela de resultado**: currículo ajustado em texto puro, edição livre, exportação em PDF e Word.  
+## 🚀 Ideias para Evoluir
+- Melhorar a área de Vibe Coding para deixar a experiência mais fluida.  
+- Exportar currículo também em outros formatos além de PDF e Word.  
+- Guardar histórico das análises em banco de dados.  
+- Criar login com confirmação por e-mail.  
+- Montar dashboard mostrando evolução do match.  
+- Especializar saída em nichos (tecnologia, primeiro emprego).  
+- Preparar aplicação para SEO e GEO (buscas dentro das IAs).  
 
-### Fluxo
-Upload currículo + vaga → análise → conversa → currículo ajustado → exportação PDF/Word.  
+---
 
-### Regras éticas
-- Nunca inventar experiências, formações ou habilidades.  
-- Lacunas são indicadas como pontos de desenvolvimento.  
-- Currículo gerado reflete sempre a realidade da pessoa candidata.  
-- Assistente explica o porquê de cada sugestão.  
-
-### Tecnologias
-- **Frontend**: React 19, TanStack Start, Tailwind CSS v4, shadcn/ui  
-- **Backend**: Lovable Cloud com autenticação segura e Row Level Security (RLS)  
-- **IA**: modelo de linguagem via gateway seguro  
-- **Exportação**: jsPDF e docx  
-- **Design**: mobile first, fonte Inter, acessibilidade  
+## 🎯 Reflexões
+- O que funcionou bem: clareza nos prompts e implementação das regras éticas.  
+- O que não funcionou: limite de créditos e ajustes incompletos no Vibe Coding.  
+- O que aprendi: importância da clareza e intenção ao conversar com IA, valor do Vibe Coding e da ética no desenvolvimento de soluções.  
+- Documentar gargalos e soluções fortaleceu o projeto como entrega profissional.  
