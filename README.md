@@ -2,8 +2,7 @@
 
 ---
 
-## ✨ Descrição do Projeto
-Oi pessoal! 👋  
+## ✨ Descrição do Projeto  
 Quero compartilhar com vocês um projeto que me deixou muito animada: o **Gerador de Currículos ATS Friendly**.  
 A ideia surgiu porque muitos currículos bons nunca chegam ao RH — eles são barrados pelos sistemas ATS (Applicant Tracking System) antes mesmo de alguém ler. Então, criei um app que compara o currículo com a descrição da vaga, mostra o nível de compatibilidade, as palavras-chave que estão presentes e aquelas que ainda faltam, e gera uma versão ajustada.  
 
