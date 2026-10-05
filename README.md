@@ -19,7 +19,7 @@ Ah, e um detalhe importante: o currículo pode ser baixado em **Word (.docx)**, 
 O desafio era simples e direto: criar uma aplicação que resolvesse o problema de currículos barrados pelo ATS.  
 O núcleo precisava funcionar assim:  
 - A pessoa cola a descrição da vaga.  
-- A pessoa cola o próprio currículo.  
+- O usuário faz o upload do próprio currículo.  
 - O app mostra o match, as palavras-chave encontradas e as que faltam.  
 - O app gera a versão ajustada do currículo, pronta para exportar.  
 
