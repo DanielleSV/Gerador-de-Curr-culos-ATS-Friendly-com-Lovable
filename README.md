@@ -34,8 +34,6 @@ E claro, sempre com a regra principal: **melhorar a apresentação sem inventar 
 - Publiquei a aplicação com nome, descrição e imagem social.  
 
 ---
-
-## 📝 Mega Prompt Utilizado
 ## 📝 Mega Prompt Utilizado
 
 Este foi o mega prompt que escrevi para guiar a IA na criação do app. Ele é detalhado porque precisava descrever telas, fluxo, cores, regras éticas e funcionalidades:
