@@ -45,7 +45,7 @@ E claro, sempre com a regra principal: **melhorar a apresentação sem inventar 
 ---
 
 ## 📷 Prints da Aplicação
-*(Adicione aqui capturas de tela da análise, da tela de conversa e do currículo ajustado.)*  
+https://canva.link/fxormbogzyd4blk
 
 ---
 
