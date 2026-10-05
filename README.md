@@ -11,7 +11,8 @@ O mais legal é que o app não inventa nada: ele só reorganiza e sugere melhori
 
 Ah, e um detalhe importante: o currículo pode ser baixado em **Word (.docx)**, justamente para que o usuário edite livremente antes de enviar.  
 
-🔗 Aplicação publicada: [Meu Currículo com Ética](https://meucurriculocometica.lovable.app/)
+🔗 Aplicação publicada: [Meu Currículo com Ética](https://meucurriculocometica.lovable.app/)  
+📷 Prints da aplicação: [11 imagens no Canva](https://canva.link/56xy2r2g8r15akx)
 
 ---
 
