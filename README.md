@@ -36,7 +36,43 @@ E claro, sempre com a regra principal: **melhorar a apresentação sem inventar 
 ---
 
 ## 📝 Mega Prompt Utilizado
-*(Aqui você cola o seu mega prompt completo, como já discutimos — não apenas o resumo, mas todo o texto que você usou para guiar a IA.)*
+## 📝 Mega Prompt Utilizado
+
+Este foi o mega prompt que escrevi para guiar a IA na criação do app. Ele é detalhado porque precisava descrever telas, fluxo, cores, regras éticas e funcionalidades:
+
+```markdown
+# Currículo ATS Friendly com Lovable
+
+Aplicação web que compara currículo e vaga e gera uma versão ATS friendly.  
+
+## Design
+- Design system: shadcn/ui  
+- Paleta de cores: azul (#0044cc), verde (#00aa66), cinza claro (#f5f5f5)  
+- Fonte: Inter  
+- Layout: mobile first, acessibilidade garantida  
+
+## Telas
+- **Tela inicial (painel)**: upload de currículo e vaga, lista de análises salvas  
+- **Tela de análise**: pontuação de compatibilidade (0 a 100), palavras-chave presentes e ausentes, soft skills, gaps, dicas de formatação  
+- **Tela de conversa (Vibe Coding)**: chat educativo com IA, histórico salvo por análise  
+- **Tela de resultado**: currículo ajustado em texto puro, edição livre, exportação em PDF e Word  
+
+## Fluxo
+Upload currículo + vaga → análise → conversa → currículo ajustado → exportação PDF/Word  
+
+## Regras éticas
+- Nunca inventar experiências, formações ou habilidades  
+- Lacunas são indicadas como pontos de desenvolvimento  
+- Currículo gerado reflete sempre a realidade da pessoa candidata  
+- Assistente explica o porquê de cada sugestão  
+
+## Tecnologias
+- **Frontend**: React 19, TanStack Start, Tailwind CSS v4, shadcn/ui  
+- **Backend**: Lovable Cloud com autenticação segura e Row Level Security (RLS)  
+- **IA**: modelo de linguagem via gateway seguro  
+- **Exportação**: jsPDF e docx  
+- **Infra**: publicação no Lovable Cloud  
+
 
 ---
 
