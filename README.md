@@ -3,7 +3,6 @@
 ---
 
 ## ✨ Descrição do Projeto
-Oi pessoal! 👋  
 Quero compartilhar com vocês um projeto que me deixou muito animada: o **Gerador de Currículos ATS Friendly**.  
 A ideia surgiu porque muitos currículos bons nunca chegam ao RH — eles são barrados pelos sistemas ATS (Applicant Tracking System) antes mesmo de alguém ler. Então, criei um app que compara o currículo com a descrição da vaga, mostra o nível de compatibilidade, as palavras-chave que estão presentes e aquelas que ainda faltam, e gera uma versão ajustada.  
 
@@ -20,7 +19,7 @@ Ah, e um detalhe importante: o currículo pode ser baixado em **Word (.docx)**, 
 O desafio era simples e direto: criar uma aplicação que resolvesse o problema de currículos barrados pelo ATS.  
 O núcleo precisava funcionar assim:  
 - A pessoa cola a descrição da vaga.  
-- A pessoa cola o próprio currículo.  
+- A pessoa faz o upload do próprio currículo.  
 - O app mostra o match, as palavras-chave encontradas e as que faltam.  
 - O app gera a versão ajustada do currículo, pronta para exportar.  
 
@@ -55,7 +54,7 @@ Durante o desenvolvimento, encontrei algumas dificuldades que vale destacar:
 - Melhorar a área de Vibe Coding para deixar a experiência mais fluida.  
 - Exportar currículo também em outros formatos além de PDF e Word.  
 - Guardar histórico das análises em banco de dados.  
-- Criar login com confirmação por e-mail.  
+- Criar login com confirmação por e-mail para segunraça.  
 - Montar dashboard mostrando evolução do match.  
 - Especializar saída em nichos (tecnologia, primeiro emprego).  
 - Preparar aplicação para SEO e GEO (buscas dentro das IAs).  
@@ -63,7 +62,7 @@ Durante o desenvolvimento, encontrei algumas dificuldades que vale destacar:
 ---
 
 ## 🎯 Reflexões
-- O que funcionou bem: clareza nos prompts e implementação das regras éticas.  
+- O que funcionou bem: clareza nos prompts (que estou aprendendo com a DIO) e implementação das regras éticas.  
 - O que não funcionou: limite de créditos e ajustes incompletos no Vibe Coding.  
 - O que aprendi: importância da clareza e intenção ao conversar com IA, valor do Vibe Coding e da ética no desenvolvimento de soluções.  
-- Documentar gargalos e soluções fortaleceu o projeto como entrega profissional.  
+- Documentar gargalos e soluções fortaleceu o projeto pra mim.  
